@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<NETSIM_ANIMATION>
+ <!--NETSIM_ANIMATION-->
+ <MENU NAME="IP Table" isNewScreen="false">
+  <MENU NAME="UE_2" isNewScreen="true" FileName="Animation_UE_2.txt" Type="table"/>
+  <MENU NAME="UE_3" isNewScreen="true" FileName="Animation_UE_3.txt" Type="table"/>
+  <MENU NAME="UE_4" isNewScreen="true" FileName="Animation_UE_4.txt" Type="table"/>
+  <MENU NAME="UE_5" isNewScreen="true" FileName="Animation_UE_5.txt" Type="table"/>
+  <MENU NAME="UE_6" isNewScreen="true" FileName="Animation_UE_6.txt" Type="table"/>
+  <MENU NAME="UE_7" isNewScreen="true" FileName="Animation_UE_7.txt" Type="table"/>
+  <MENU NAME="UE_8" isNewScreen="true" FileName="Animation_UE_8.txt" Type="table"/>
+  <MENU NAME="EPC_9" isNewScreen="true" FileName="Animation_EPC_9.txt" Type="table"/>
+  <MENU NAME="WIRED_NODE_10" isNewScreen="true" FileName="Animation_WIRED_NODE_10.txt" Type="table"/>
+ </MENU>
+ <MENU NAME="Node Movement" isNewScreen="false" FileName="Animation_Node_Movement.txt" Type="generic"/>
+ <MENU NAME="Transmit_packet" isNewScreen="false" FileName="Animation_Transmit_packet.txt" Type="generic"/>
+</NETSIM_ANIMATION>
